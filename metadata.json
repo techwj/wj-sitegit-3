@@ -1,0 +1,59 @@
+{
+  "siteId": "how-to-choose-frozen-ingredients",
+  "generatedAt": "2026-06-02T15:35:12.863126",
+  "categories": [
+    "beginner-how-to-choose-frozen-ingredients",
+    "advanced-how-to-choose-frozen-ingredients",
+    "tips-how-to-choose-frozen-ingredients",
+    "history-how-to-choose-frozen-ingredients",
+    "trending-how-to-choose-frozen-ingredients",
+    "tutorials-how-to-choose-frozen-ingredients"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-how-to-choose-frozen-ingredients",
+      "category_name": "Beginner How to Choose Frozen Ingredients"
+    },
+    {
+      "category_slug": "advanced-how-to-choose-frozen-ingredients",
+      "category_name": "Advanced How to Choose Frozen Ingredients"
+    },
+    {
+      "category_slug": "tips-how-to-choose-frozen-ingredients",
+      "category_name": "How to Choose Frozen Ingredients Tips"
+    },
+    {
+      "category_slug": "history-how-to-choose-frozen-ingredients",
+      "category_name": "How to Choose Frozen Ingredients History"
+    },
+    {
+      "category_slug": "trending-how-to-choose-frozen-ingredients",
+      "category_name": "Trending How to Choose Frozen Ingredients"
+    },
+    {
+      "category_slug": "tutorials-how-to-choose-frozen-ingredients",
+      "category_name": "How to Choose Frozen Ingredients Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "how-to-choose-frozen-ingredients",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "How to Choose Frozen Ingredients Central",
+    "articles_per_row": 3
+  }
+}
